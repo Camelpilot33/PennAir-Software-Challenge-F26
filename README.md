@@ -1,13 +1,13 @@
 # PennAiR Software Challenge
 
 ## Setup
-Windows Powershell:
+Windows:
 ```
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
 python -m pip install -r requirements.txt
 ```
-Mac/Linux (I didn't test this, and you might need to get [OpenH264](https://github.com/cisco/openh264/releases#release-v2.5.0) to to have the videos render correctly):
+Linux (I didn't test this, and you might need to get [OpenH264](https://github.com/cisco/openh264/releases#release-v2.5.0) to to have the videos render correctly):
 ```
 python3 -m venv .venv
 source .venv/bin/activate

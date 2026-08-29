@@ -1,3 +1,5 @@
+.vscode/settings.json
+
 # ROS 2
 ros2/**/build/
 ros2/**/install/

@@ -12,7 +12,7 @@ setup(
         ("share/pennair_app", ["pennair_app/input_p5.mp4"]),
         (
             "share/" + package_name + "/launch",
-            ["launch/vision.launch.py"],
+            ["launch/part5.launch.py"],
         ),
     ],
     install_requires=["setuptools"],
