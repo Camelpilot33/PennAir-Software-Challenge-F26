@@ -1,13 +1,13 @@
 # PennAiR Software Challenge
 
-## Setup (Parts 1-4, 6)
+## Setup for parts 1-4 & 6
 Windows:
 ```bash
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
 python -m pip install -r requirements.txt
 ```
-Ubuntu (I only added support for linux starting on part 4, to run the earlier parts you might need OpenH264):
+Ubuntu (I only added support starting on part 4, to run the earlier parts you might need to get OpenH264):
 ```bash
 python3 -m venv .venv
 source .venv/bin/activate
